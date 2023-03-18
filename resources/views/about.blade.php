@@ -8,10 +8,10 @@
             </div>
         </div>
         <div class="row mt-5 justify-content-center text-center">
-            <div class="col-md-3 mb-3">
+            <div class="col-lg-3 mb-3">
                 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum, perferendis molestiae dicta explicabo temporibus deserunt cum cupiditate perspiciatis nihil suscipit eum! Aspernatur ducimus eos atque?</p>
             </div>
-            <div class="col-md-3">
+            <div class="col-lg-3">
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita harum eveniet culpa dicta pariatur vel adipisci reprehenderit porro eligendi, tempore provident fuga similique cum consequatur fugit totam, itaque dignissimos necessitatibus?</p>
             </div>
         </div>
@@ -27,11 +27,11 @@
             </div>
         </div>
         <div class="row justify-content-center text-center">
-            <div class="col-md-3 mb-5">
+            <div class="col-lg-3 mb-5">
                 <p class="mb-4 fs-4">Tempat Tinggal</p>
                 <p>Jl. Bunga Truly No.23</p>
             </div>
-            <div class="col-md-3">
+            <div class="col-lg-3">
                 <p class="mb-4 fs-4">Sosial Media</p>
                 <a href="https://www.instagram.com/otnawrup_/" class="text-dark text-decoration-none fw-bold">Instagram</a>
             </div>
