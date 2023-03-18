@@ -1,5 +1,6 @@
-@extends('layouts.nb')
-
+@extends('layouts.main')
+@section('title','About')
+    
 <section id="sambutan" class="mt-5 bg-danger-subtle">
     <div class="container">
         <div class="row text-center">
