@@ -22,8 +22,14 @@
               <li class="nav-item">
                 <a class="nav-link {{ ($title === "Home" ? 'active' : '' ) }}" aria-current="page" href="/">Home</a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link {{ ($title === "About" ? 'active' : '' ) }}" href="/about">About</a>
+              <li class="nav-item dropdown">
+                <button class="btn btn-danger btn-gradient dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+                  About
+                </button>
+                <ul class="dropdown-menu dropdown-menu-danger">
+                  <li><a class="dropdown-item" href="#sambutan">Sambutan</a></li>
+                  <li><a class="dropdown-item" href="#biodata">Biodata</a></li>
+                </ul>
               </li>
               
             </ul>
